@@ -1,0 +1,8 @@
+Package: mvbjoblot
+Title: One-stop-shop installer
+Version: 1.0.3
+Author: Mark V. Bravington
+Description: Installs all packages required for MVB CKMR course
+Maintainer: Mark V. Bravington <markb2@summerinsouth.net>
+Imports: mvbutils, atease, debug, offarray, offartmb, despack, deconvodisc, microscoping
+License: GPL-3
